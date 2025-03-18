@@ -2,6 +2,11 @@
 title: Most recent notes
 description: Latest notes will appear on this page
 ---
+Mar 18, 2025
+
+[[Data visualization in Obsidian and Flowershow]]
+
+---
 
 Mar 17, 2025
 
