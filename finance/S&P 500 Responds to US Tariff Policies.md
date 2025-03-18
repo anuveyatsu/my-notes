@@ -1,3 +1,44 @@
+
+In March, the S&P 500’s market capitalization fell by 4.61% following Trump’s tariff announcements:
+
+<PlotlyBarChart
+  data={{
+    values: "Effective date,S&P 500
+2/28/25,5954.5
+3/3/25,5849.72
+3/4/25,5778.15
+3/5/25,5842.63
+3/6/25,5738.52
+3/7/25,5770.2
+3/10/25,5614.56
+3/11/25,5572.07
+3/12/25,5599.3
+3/13/25,5521.52
+3/14/25,5638.94
+3/17/25,5675.12"
+  }}
+  xAxis="Effective date"
+  yAxis="S&P 500"
+/>
+
+
+Raw data:
+
+| Effective date | S&P 500 |
+| -------------- | ------- |
+| 2/28/25        | 5954.5  |
+| 3/3/25         | 5849.72 |
+| 3/4/25         | 5778.15 |
+| 3/5/25         | 5842.63 |
+| 3/6/25         | 5738.52 |
+| 3/7/25         | 5770.2  |
+| 3/10/25        | 5614.56 |
+| 3/11/25        | 5572.07 |
+| 3/12/25        | 5599.3  |
+| 3/13/25        | 5521.52 |
+| 3/14/25        | 5638.94 |
+| 3/17/25        | 5675.12 |
+
 The VIX index has remained above 20 since February 28th, indicating sustained market volatility and heightened investor uncertainty:
 
 | DATE       | OPEN  | HIGH  | LOW   | CLOSE |
