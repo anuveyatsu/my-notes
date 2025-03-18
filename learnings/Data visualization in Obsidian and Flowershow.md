@@ -11,9 +11,9 @@ In this post you can learn about the following methods:
 
 ## Excalidraw
 
-Quick YouTube video: https://www.youtube.com/watch?v=XBvPQAOjDVc.
-
 See a live example: [[Oil Prices Trending Downward]].
+
+Quick YouTube video: https://www.youtube.com/watch?v=XBvPQAOjDVc.
 
 ### Notes
 
