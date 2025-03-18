@@ -3,7 +3,7 @@ In March, the S&P 500’s market capitalization fell by 4.61% following Trump’
 
 <PlotlyBarChart
   data={{
-    values: "Effective date,S&P 500
+    csv: "Effective date,S&P 500
 2/28/25,5954.5
 3/3/25,5849.72
 3/4/25,5778.15
